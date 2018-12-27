@@ -1,0 +1,5 @@
+com\sso\client\plugin\config\PlugConfiguration.class
+com\sso\client\plugin\service\impl\UserAccessServiceImpl.class
+com\sso\client\plugin\controller\SsoClientController.class
+com\sso\client\plugin\service\UserAccessService.class
+com\sso\client\plugin\filter\CommonAuthFilter.class
